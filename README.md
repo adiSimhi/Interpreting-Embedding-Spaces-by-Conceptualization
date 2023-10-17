@@ -10,6 +10,7 @@ To see help about the arguments run `python run_tests.py -h`
 You can also generate to a sentence it's top CES concepts using [InterpretingEmbeddingSpacesByConceptualization.ipynb](src/InterpretingEmbeddingOfSentence.ipynb) notebook
 
 ### How to cite this work:
+This work has been accepted to the 2023 EMNLP conference. If you use this code, please cite our paper:
 ```@article{simhi2022interpreting,
   title={Interpreting Embedding Spaces by Conceptualization},
   author={Simhi, Adi and Markovitch, Shaul},
